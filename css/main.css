@@ -4,6 +4,8 @@
   --primary-light-gray: hsl(212, 45%, 89%);
   --primary-grayish-blue: hsl(220, 15%, 55%);
   --primary-dark-blue: hsl(218, 44%, 22%);
+  --heading-font-family: "Outfit", sans-serif;
+  --body-font-family: "Open Sans", sans-serif;
 }
 
 /* Decent Defaults */
