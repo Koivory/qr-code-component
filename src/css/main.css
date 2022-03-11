@@ -7,6 +7,10 @@
   --heading-font-family: "Outfit", sans-serif;
   --body-font-family: "Open Sans", sans-serif;
 }
+html {
+  background: var(--primary-grayish-blue);
+  background-size: 100%;
+}
 
 /* Decent Defaults */
 img,
